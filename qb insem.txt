@@ -1,0 +1,70 @@
+Explain the basic structure of HTML documents.
+Why HTML? What are the features of HTML?
+What are the different elements in HTML?
+Write a note on WWW and how it supports Web Technologies
+Explain any 5 tags used in HTML with their attributes.
+Write an HTML code to create an employee table with 5 rows and 5 columns.
+Explain any three bootstrap components.
+Design a HTML form for a college admission process. Also write corresponding HTML code. (Try to use maximum controls ,tags and attributes) 
+What is CSS? State the advantages of CSS.
+What is the purpose of CSS? Explain types of CSS with examples.
+Write a note on manipulating text in CSS with examples.
+Specify CSS animation properties
+What is positioning in CSS explains it with examples. [Static, Fixed, Relative, Absolute]
+Differentiate between CSS and Bootstrap.
+Write with example tags used to include audio and video in HTML.
+Write a importance of Bootstrap and write steps to use it  in HTML.
+Write a note on the Bootstrap Grid system.
+Explain different selectors in CSS with examples.
+What is HTML form? How to create an HTML form with examples.
+How to write RGBA, HSLA colour property in CSS, gives its syntax.
+Explain semantic elements in HTML5 with an example.
+How W3C standards support web technologies.
+
+Note : Above questions are for reference only.
+
+
+
+
+
+
+
+
+
+
+
+Question Bank for Unit 2
+
+What are the differences between client side and server side scripting languages?
+Write a short note on JavaScript.
+What is inline, embedded and external JavaScript?  Explain the advantages and drawbacks?
+Explain user defined functions in JavaScript with examples.
+Write an embedded code displaying “Hello World” on the browser.
+Write a script that reads an integer and displays whether it is prime or not.
+Write a JavaScript to print characters of a string at odd positions. 
+Explain JavaScript objects in detail.
+Write a short note on :1. callback function 2. async-await ()  function
+How to create an object in JavaScript. Explain with the help of a block of code.
+How to create and modify the objects in JavaScript.
+Explain Event Handling in JavaScript.
+Write a note on JavaScript Error handling.
+What is the difference between JSON and XML?
+What is scripting language? Explain different types of scripting languages.
+Explain the following terms with example: 1. JavaScript Array 2. JavaScript Object.
+What is JSON? Explain JSON.parse() and JSON.stringify() function in detail.
+What are JS Promises?
+Explain working of AJAX with a suitable diagram.
+Discuss AJAX client server architecture in detail 
+Write steps to process AJAX with a block of code.
+Compare and contrast the traditional web application architecture and AJAX based web application architecture
+List pros and cons of AJAX
+What are the methods associated with the XMLHttpRequest object?
+What is Jquery? Explain with examples.
+Write features of jQuery.
+Explain different selectors in jQuery with example
+Write a program to create an appended  HTML element in jQuery.
+Write a note on advantages of JQuery.
+List and explain any five selectors in jQuery.
+How to change style in jQuery give an example.
+
+
